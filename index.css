@@ -6,17 +6,17 @@ body{
     background-image: url("images/images.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
+    margin: auto;
 }
 
 .full-container{  
     font-family:arial;  
     display: flex;
+    align-items: center;
     gap: 30px;
     padding: 30px;
-    width: 60vw;
     flex-shrink: 0;
     white-space: nowrap; 
-    /* flex-wrap:wrap; */
     background-color: rgb(43, 58, 105);
     border-radius: 8px;
     box-shadow: 1px 2px 6px 2px rgba(0,0,0,0.5);
@@ -40,10 +40,12 @@ body{
 #guest-label , #home-label{
     display: flex;
     justify-content: center;
+    align-items: center;
     font-size: 80px;
     background-color: black;
     color: rgb(209, 105, 105);
-    width: 130px;
+    width: 170px;
+    height: 130px;
     border-radius: 5px;
 }
 
