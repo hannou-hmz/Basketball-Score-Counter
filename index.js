@@ -39,7 +39,7 @@ document.getElementById('guestAddThree').onclick = function(){
 
 document.getElementById('guest-reset').onclick = function(){
     guestCount = 0;
-    document.getElementById('guest-label').textContent = homeCount;
+    document.getElementById('guest-label').textContent = guestCount;
 }
 
 
