@@ -20,7 +20,7 @@ It allows you to easily track points for **two teams — Home and Guest** during
 
 ## 🚀 How to Use
 
-1. **Open** the `index.html` file in your browser.  
+1. **Copy / click** "https://hannou-hmz.github.io/Basketball-Score-Counter/" .  
 2. Choose which team you want to score for: **Home** or **Guest**.  
 3. Click the buttons:
    - `+1` → adds 1 point  
