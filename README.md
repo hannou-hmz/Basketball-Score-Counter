@@ -15,8 +15,8 @@ It allows you to easily track points for **two teams — Home and Guest** during
 ---
 
 ## 🖼️ Preview
-<img width="957" height="384" alt="Screenshot 2025-10-28 030717" src="https://github.com/user-attachments/assets/e60afe32-f6be-4b6e-a3e1-065229917911" />
----
+
+---C:\Users\USER\Desktop\myProjects\counterApp2\Screenshot 2025-11-01 161949.png
 
 ## 🚀 How to Use
 
