@@ -14,10 +14,6 @@ It allows you to easily track points for **two teams — Home and Guest** during
 
 ---
 
-## 🖼️ Preview
-
---- ![alt text](image-1.png)
-
 ## 🚀 How to Use
 
 1. **Copy / click** "https://hannou-hmz.github.io/Basketball-Score-Counter/" .  
